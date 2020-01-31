@@ -1,0 +1,23 @@
+﻿<Window x:Class="KinectStreams.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Kinect | Color, Depth, Infrared" Height="950" Width="1400" 
+        Loaded="Window_Loaded" 
+        Closed="Window_Closed"
+        WindowState="Maximized">
+    <Grid>
+        <Image Name="camera" />
+        <Canvas Name="canvas" Margin="0,0,0.333,-0.333" />
+        <Grid Style="{StaticResource GridButtonsStyle}">
+            <StackPanel Style="{StaticResource StackPanelButtonsStyle}">
+                <Button Content="Color" Style="{StaticResource ButtonStyle}" Click="Color_Click" />
+                <Button Content="Depth" Style="{StaticResource ButtonStyle}" Click="Depth_Click" />
+                <Button Content="Infrared" Style="{StaticResource ButtonStyle}" Click="Infrared_Click" />
+                <Button Content="Body" Style="{StaticResource ButtonStyle}" Click="Body_Click" />
+                <Button Content="ScreenShot" Style="{StaticResource ButtonStyle}" Click="ScreenShot_Click" />
+                <Button Content="StartSave" Style="{StaticResource ButtonStyle}" Click="StartSave_Click" />
+                <Button Content="StopSave" Style="{StaticResource ButtonStyle}" Click="StopSave_Click" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

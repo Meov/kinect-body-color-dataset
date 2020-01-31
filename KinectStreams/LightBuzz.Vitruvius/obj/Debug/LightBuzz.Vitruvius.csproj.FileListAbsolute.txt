@@ -1,0 +1,37 @@
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.XML
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.dll
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.xml
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.csprojResolveAssemblyReference.cache
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\Controls\KinectAngle.g.cs
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\Controls\KinectJointSelector.g.cs
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\Controls\KinectViewer.g.cs
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius_MarkupCompile.cache
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius_MarkupCompile.lref
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\Controls\KinectAngle.baml
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\Controls\KinectJointSelector.baml
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\Controls\KinectViewer.baml
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.g.resources
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.dll
+C:\Users\x1c\Desktop\Vitruvius-master\Vitruvius-master\Kinect v2\WPF\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.XML
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.dll
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\bin\Debug\LightBuzz.Vitruvius.pdb
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.dll
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.Face.dll
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.xml
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\bin\Debug\Microsoft.Kinect.Face.xml
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\Controls\KinectAngle.g.cs
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\Controls\KinectJointSelector.g.cs
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\Controls\KinectViewer.g.cs
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius_MarkupCompile.cache
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius_MarkupCompile.lref
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\Controls\KinectAngle.baml
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\Controls\KinectJointSelector.baml
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\Controls\KinectViewer.baml
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.g.resources
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.dll
+C:\Users\x1c\Desktop\KinectStreams\KinectStreams\LightBuzz.Vitruvius\obj\Debug\LightBuzz.Vitruvius.pdb
